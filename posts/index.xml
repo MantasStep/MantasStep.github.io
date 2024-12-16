@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on My New Blog</title>
+        <link>https://MantasStep.github.io/posts/</link>
+        <description>Recent content in Posts on My New Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 16 Dec 2024 10:00:00 +0200</lastBuildDate>
+        <atom:link href="https://MantasStep.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Pirmas blog&#39;as</title>
+            <link>https://MantasStep.github.io/posts/first_blog/</link>
+            <pubDate>Mon, 16 Dec 2024 10:00:00 +0200</pubDate>
+            
+            <guid>https://MantasStep.github.io/posts/first_blog/</guid>
+            <description>&lt;p&gt;Šis puslapis buvo sukurtas naudojant Hugo komandą.&lt;br&gt;
+Čia galite parašyti bet kokį turinį ar informaciją, kurią norite pateikti lankytojams.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>Šis puslapis buvo sukurtas naudojant Hugo komandą.<br>
+Čia galite parašyti bet kokį turinį ar informaciją, kurią norite pateikti lankytojams.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
