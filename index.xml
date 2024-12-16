@@ -6,8 +6,15 @@
     <description>Recent content on My New Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Dec 2024 10:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 22:24:28 +0200</lastBuildDate>
     <atom:link href="https://MantasStep.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pirmas paveiksliukas</title>
+      <link>https://MantasStep.github.io/posts/pirmas_paveiksliukas/</link>
+      <pubDate>Mon, 16 Dec 2024 22:24:28 +0200</pubDate>
+      <guid>https://MantasStep.github.io/posts/pirmas_paveiksliukas/</guid>
+      <description>&lt;h1 id=&#34;pirmas-įrašas&#34;&gt;Pirmas įrašas&lt;/h1&gt;&#xA;&lt;p&gt;Šiame įraše galima matyti paveiksliuką bei kodo citatą&lt;/p&gt;&#xA;&lt;h2 id=&#34;mano-paveikslėlis&#34;&gt;Mano paveikslėlis&lt;/h2&gt;&#xA;&#xD;&#xA;    &lt;img src=&#34;https://MantasStep.github.io/images/image.png&#34;  alt=&#34;Hello Friend&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;h2 id=&#34;kodo-citata&#34;&gt;Kodo citata&lt;/h2&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt; &lt;span style=&#34;color:#f92672&#34;&gt;image&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;src&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;/images/image.png&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;alt&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello Friend&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;position&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;center&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;style&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;border-radius: 8px;&amp;#34;&lt;/span&gt; &amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Pirmas blog&#39;as</title>
       <link>https://MantasStep.github.io/posts/first_blog/</link>
